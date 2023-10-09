@@ -1,0 +1,16 @@
+@media screen and  (max-width:625px){
+    .navbar{
+       
+        background-color: red;
+        
+    }
+    .nav-item{
+        display: none;
+    }
+
+}
+
+
+
+
+
