@@ -44,7 +44,7 @@
 }
 
 .hero{
-    background-image: url( img2\12.jpg);
+    background-image: url( img2/12.jpg);
     background-size: cover;
     height: 530px;
     background-color: gray;
